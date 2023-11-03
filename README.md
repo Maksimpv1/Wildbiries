@@ -1,3 +1,3 @@
-# project-wildberries-clone
+# wildberries-project
 
-Курсовая работа
+
